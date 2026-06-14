@@ -13,8 +13,9 @@ implementing autonomous movement and shooter control.
 * Shooter mechanism control
 * Driver-controlled (TeleOp) movement
 
-## Logic used
+## New Knowledge gained
 * Working with hardware inputs and outputs in code
 * Using telemetry to debug a physical robot in real time
 * Implementing odometry for autonomous positioning
+
 
